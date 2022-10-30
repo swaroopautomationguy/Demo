@@ -8,6 +8,7 @@ public class AppTest {
 	public void test() {
 		System.out.println("test");
 		System.out.println("demo");
+		System.out.println("new line");
 	}
 	
 }
