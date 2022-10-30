@@ -10,7 +10,7 @@ public class AppTest {
 		System.out.println("demo");
 		System.out.println("new line");
 		System.out.println("some");
-		System.out.println("diff");
+		System.out.println("diff ");
 	}
 	
 }
