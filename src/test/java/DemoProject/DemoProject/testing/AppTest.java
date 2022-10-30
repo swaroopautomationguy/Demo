@@ -9,6 +9,7 @@ public class AppTest {
 		System.out.println("test");
 		System.out.println("demo");
 		System.out.println("new line");
+		System.out.println("some");
 	}
 	
 }
